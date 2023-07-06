@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
-- 🔭 My name is Peijie Zheng
-- 😄 Pronouns: he/him
-- 🌱 An Informatics major at the University of Washington (UW)
-- 👯 Experienced with Java, React, ExpressJS...
+- 🔭 My name is Peijie (pay-jee) Zheng
+- 😄 Pronouns: he/him/his
+- 🌱 Informatics major at the University of Washington (UW)
+- 👯 Experienced with Java, Python, React, ExpressJS...
 - 📫 Contact me at peijie36@uw.edu
 
 <!--
