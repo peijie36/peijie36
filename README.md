@@ -3,7 +3,7 @@
 - 🔭 My name is Peijie (pay-jee) Zheng
 - 😄 Pronouns: he/him/his
 - 🌱 Informatics major at the University of Washington (UW)
-- 👯 Experienced with Java, Python, ReactJS, ExpressJS...
+- 👯 Experienced with Java, Python, React, Express, Django...
 - 📫 Contact me at peijie36@uw.edu
 
 <!--
