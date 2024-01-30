@@ -3,7 +3,7 @@
 - 🔭 My name is Peijie (pay-jee) Zheng
 - 😄 Pronouns: he/him/his
 - 🌱 Informatics major at the University of Washington (UW)
-- 👯 Experienced with Java, Python, React, Express, Django, Firebase, Mongo...
+- 👯 Experienced with Java, Python, React, Express, Django, Firebase, MongoDB...
 - 📫 Contact me at peijie36@uw.edu
 
 <!--
