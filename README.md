@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him/his
 - 🌱 Informatics major at the University of Washington (UW)
 - 👯 Experienced with Java, Python, React, Express, Django, Firebase, MongoDB...
-- 📫 Contact me at peijie36@uw.edu
+- 📫 Contact me at peijiezheng2001@gmail.com
 
 <!--
 **peijie36/peijie36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
