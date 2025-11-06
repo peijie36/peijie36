@@ -3,7 +3,7 @@
 - 🔭 My name is Peijie (pay-jee) Zheng
 - 😄 Pronouns: he/him/his
 - 🌱 Informatics graduate at the University of Washington (UW)
-- 👯 Experienced with Javascript, Python, React, Express, Next.js, Tailwind, Firebase, MongoDB...
+- 👯 Experienced with Javascript, Python, React, Express, Next.js, Tailwind, Supabase, MongoDB...
 - 📫 Contact me at peijiezheng2001@gmail.com
 
 <!--
